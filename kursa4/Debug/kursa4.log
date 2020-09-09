@@ -1,0 +1,25 @@
+﻿  Source.cpp
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(172): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(191): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(382): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(428): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(483): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(506): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(530): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(553): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(617): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(338): warning C4101: D: неиспользованная локальная переменная
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(779): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(797): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(972): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(1011): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(1064): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(1086): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(1109): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(1131): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(1149): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(1156): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(1194): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(1201): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\yurev\source\repos\kursa4\kursa4\source.cpp(928): warning C4101: D: неиспользованная локальная переменная
+  kursa4.vcxproj -> C:\Users\yurev\source\repos\kursa4\Debug\kursa4.exe
